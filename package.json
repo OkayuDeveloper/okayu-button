@@ -6,7 +6,9 @@
     "serve": "vue-cli-service serve",
     "dev": "npm run serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "one-key-cyame": "git checkout master && npm run build && git add . && git commit -m 'update site' && git push && git checkout gitee && git merge master && git push gitee HEAD:master",
+    "one-key-stardust": "git add . && git commit -m 'modify' && npm run build && git add . && git commit -m 'with site updated' && git push"
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
