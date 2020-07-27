@@ -103,7 +103,7 @@ class HomePage extends Vue {
     overlapCheck = false;
     voice = {};
     activeNames = ['controller','lmao','regigigas','strange-voices','grunting'];
-    bgSrc = require('../../public/resources/BG1.jpeg') 
+    bgSrc = require('../../public/resources/BG2.png') 
     play(item){
         if (this.overlapCheck) {
             let audio = new Audio("voices/" + item.path);

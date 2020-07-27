@@ -9,7 +9,11 @@ const en_US = {
         about: "About",
         toGithub: "Looking forward to your participation in translation, add audio or make suggestions on Github:",
         notOfficial: "This is merely a fan work with no association with the official.",
-        overlapTips: "There're still a branch of bugs to fix, it will create a new thread once a button is clicked. So please refresh the page occasionally and enjoy it."
+        overlapTips: "There're still a branch of bugs to fix, it will create a new thread once a button is clicked. So please refresh the page occasionally and enjoy it.",
+        cnServer: "MirrorSite",
+        cnHint: "Chinese Server",
+        globalServer: "HomePage",
+        globalHint: "Global Server"
     },
     action: {
         toggleNavbar: "Switch the Navigator",
