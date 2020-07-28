@@ -46,10 +46,10 @@ for index in range(len(voice)):
     voice[index]["description"] = {}
     # Conflict Dealing
     if voice[index]["cn"] in voiceDescription_CN.keys():
-        voice[index]["us"] = voice[index]["us"] + " " + str(voiceDescription_CN[voice[index]["cn"]])
-        voice[index]["jp"] = voice[index]["jp"] + " " + str(voiceDescription_CN[voice[index]["cn"]])
+        voice[index]["us"] = str(voice[index]["us"]) + " " + str(voiceDescription_CN[voice[index]["cn"]])
+        voice[index]["jp"] = str(voice[index]["jp"]) + " " + str(voiceDescription_CN[voice[index]["cn"]])
         voiceDescription_CN[voice[index]["cn"]] += 1
-        voice[index]["cn"] = voice[index]["cn"] + " " + str(voiceDescription_CN[voice[index]["cn"]]-1)
+        voice[index]["cn"] = str(voice[index]["cn"]) + " " + str(voiceDescription_CN[voice[index]["cn"]]-1)
     else:
         voiceDescription_CN[voice[index]["cn"]] = 2
 
@@ -65,9 +65,9 @@ for key,item in voiceDescription_CN.items():
     if item != 2:
         for vk,vi in voice.items():
             if vi["description"]["zh-CN"] == key:
-                vi["description"]["en-US"] = vi["description"]["en-US"] + " 1"
-                vi["description"]["ja-JP"] = vi["description"]["ja-JP"] + " 1"
-                vi["description"]["zh-CN"] = vi["description"]["zh-CN"] + " 1"
+                vi["description"]["en-US"] = str(vi["description"]["en-US"]) + " 1"
+                vi["description"]["ja-JP"] = str(vi["description"]["ja-JP"]) + " 1"
+                vi["description"]["zh-CN"] = str(vi["description"]["zh-CN"]) + " 1"
 
 
 # for k,item in voice.items():
@@ -82,9 +82,11 @@ print(voice)
 
 for i,cat in category.items():
     for j,vocal in voice.items():
-        if vocal["category"] == cat["categoryName"]:
-            del vocal["category"]
-            cat["voiceList"].append(vocal)
+        # print(vocal, " vs ", cat)
+        if vocal.__contains__("category"):
+            if vocal["category"] == cat["categoryName"]:
+                del vocal["category"]
+                cat["voiceList"].append(vocal)
 
 
 # append
