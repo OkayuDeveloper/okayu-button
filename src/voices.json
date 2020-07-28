@@ -465,7 +465,7 @@
           "path": "o-68.mp3",
           "description": {
             "zh-CN": "nyanyanyanya咪咪咪咪",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Nyanyanyanya咪咪咪咪"
           }
         },
@@ -474,7 +474,7 @@
           "path": "o-69.mp3",
           "description": {
             "zh-CN": "popipipapipapipopepa",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Popipipapipapipopepa"
           }
         },
@@ -483,7 +483,7 @@
           "path": "o-70.mp3",
           "description": {
             "zh-CN": "啪啪啪啪啪啪啪啪",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Papapapapapa"
           }
         },
@@ -582,8 +582,8 @@
           "path": "o-81.mp3",
           "description": {
             "zh-CN": "唔额",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -636,7 +636,7 @@
           "path": "o-87.mp3",
           "description": {
             "zh-CN": "八卡八卡哔——",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "BakabakaPiiii"
           }
         },
@@ -1014,7 +1014,7 @@
           "path": "o-142.mp3",
           "description": {
             "zh-CN": "pang！",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Pang!"
           }
         },
@@ -1158,7 +1158,7 @@
           "path": "o-162.mp3",
           "description": {
             "zh-CN": "foo",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Foo~"
           }
         },
@@ -1384,7 +1384,7 @@
           "path": "o-46.mp3",
           "description": {
             "zh-CN": "有了",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Got it"
           }
         }
@@ -1421,7 +1421,7 @@
           "path": "o-147.mp3",
           "description": {
             "zh-CN": "呀吼",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Hello~"
           }
         }
@@ -1440,7 +1440,7 @@
           "path": "o-54.mp3",
           "description": {
             "zh-CN": "可能这就是aqua只能做我爱人的原因吧",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Maybe this is why Aqua can only be my lover"
           }
         },
@@ -1449,7 +1449,7 @@
           "path": "o-55.mp3",
           "description": {
             "zh-CN": "(倒计时) 好了吗？",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "(countdown)Is it OK？"
           }
         },
@@ -1458,7 +1458,7 @@
           "path": "o-56.mp3",
           "description": {
             "zh-CN": "放~我~出~来~",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Let me out!"
           }
         },
@@ -1467,7 +1467,7 @@
           "path": "o-57.mp3",
           "description": {
             "zh-CN": "好可怜的饭团屋",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "Poor onigirya"
           }
         },
@@ -1476,8 +1476,8 @@
           "path": "o-59.mp3",
           "description": {
             "zh-CN": "诶~难道说 你还不是我的gachi恋吗",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1485,8 +1485,8 @@
           "path": "o-60.mp3",
           "description": {
             "zh-CN": "Alexa可能会背叛你 但我是不会背叛你的哦",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1494,8 +1494,8 @@
           "path": "o-61.mp3",
           "description": {
             "zh-CN": "我身上的罪也是你们的罪",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1503,7 +1503,7 @@
           "path": "o-62.mp3",
           "description": {
             "zh-CN": "我会一直陪伴着大家的",
-            "ja-JP": NaN,
+            "ja-JP": "null",
             "en-US": "I will always be with you."
           }
         },
@@ -1512,8 +1512,8 @@
           "path": "o-63.mp3",
           "description": {
             "zh-CN": "你是怎么想的呢，觉得是我的错吗，昴酱",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1521,8 +1521,8 @@
           "path": "o-65.mp3",
           "description": {
             "zh-CN": "Alexa 把空调开一开",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1530,8 +1530,8 @@
           "path": "o-66.mp3",
           "description": {
             "zh-CN": "Alexa 把空调关一下",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         },
         {
@@ -1539,8 +1539,8 @@
           "path": "o-67.mp3",
           "description": {
             "zh-CN": "真要说的话我也是miofa沁音suki和suba友",
-            "ja-JP": NaN,
-            "en-US": NaN
+            "ja-JP": "null",
+            "en-US": "null"
           }
         }
       ]
