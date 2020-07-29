@@ -102,7 +102,7 @@ class HomePage extends Vue {
     autoCheck = false;
     overlapCheck = false;
     voice = {};
-    activeNames = ['controller','lmao','regigigas','strange-voices','grunting'];
+    activeNames = ['controller','hahahaha','regigigas','strange-voices','responses','sentences','greetings'];
     bgSrc = require('../../public/resources/BG2.png') 
     play(item){
         if (this.overlapCheck) {
