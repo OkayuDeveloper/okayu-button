@@ -347,7 +347,7 @@
           "path": "o-88.mp3",
           "description": {
             "zh-CN": "屑猫狂笑 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "笑すぎ 2",
             "en-US": "(Laughter) 2"
           }
         },
@@ -356,7 +356,7 @@
           "path": "o-89.mp3",
           "description": {
             "zh-CN": "屑猫狂笑 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "笑すぎ 3",
             "en-US": "(Laughter) 3"
           }
         }
@@ -416,11 +416,20 @@
           }
         },
         {
+          "name": "o-48",
+          "path": "o-48.mp3",
+          "description": {
+            "zh-CN": "欸嘿嘿",
+            "ja-JP": "えへへ",
+            "en-US": "www"
+          }
+        },
+        {
           "name": "o-49",
           "path": "o-49.mp3",
           "description": {
             "zh-CN": "吃瘪 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "呟き 4",
             "en-US": "Sob 4"
           }
         },
@@ -429,7 +438,7 @@
           "path": "o-50.mp3",
           "description": {
             "zh-CN": "咕噜咕噜 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "ゴロゴロ 1",
             "en-US": "Grunting 1"
           }
         },
@@ -438,7 +447,7 @@
           "path": "o-51.mp3",
           "description": {
             "zh-CN": "咕噜咕噜 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "ゴロゴロ 2",
             "en-US": "Grunting 2"
           }
         },
@@ -447,7 +456,7 @@
           "path": "o-52.mp3",
           "description": {
             "zh-CN": "咕噜咕噜 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "ゴロゴロ 3",
             "en-US": "Grunting 3"
           }
         },
@@ -456,8 +465,17 @@
           "path": "o-53.mp3",
           "description": {
             "zh-CN": "咕噜咕噜 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "ゴロゴロ 4",
             "en-US": "Grunting 4"
+          }
+        },
+        {
+          "name": "o-58",
+          "path": "o-58.mp3",
+          "description": {
+            "zh-CN": "嚎啕大哭",
+            "ja-JP": "泣き声",
+            "en-US": "(Crying)"
           }
         },
         {
@@ -465,8 +483,8 @@
           "path": "o-68.mp3",
           "description": {
             "zh-CN": "nyanyanyanya咪咪咪咪",
-            "ja-JP": "null",
-            "en-US": "Nyanyanyanya咪咪咪咪"
+            "ja-JP": "にゃにゃにゃにゃミミミミー",
+            "en-US": "Nyanyanyanya-mimimimi"
           }
         },
         {
@@ -474,7 +492,7 @@
           "path": "o-69.mp3",
           "description": {
             "zh-CN": "popipipapipapipopepa",
-            "ja-JP": "null",
+            "ja-JP": "ポピピパピパピポぺパ",
             "en-US": "Popipipapipapipopepa"
           }
         },
@@ -483,7 +501,7 @@
           "path": "o-70.mp3",
           "description": {
             "zh-CN": "啪啪啪啪啪啪啪啪",
-            "ja-JP": "null",
+            "ja-JP": "パパパパパパパ",
             "en-US": "Papapapapapa"
           }
         },
@@ -492,7 +510,7 @@
           "path": "o-71.mp3",
           "description": {
             "zh-CN": "阿巴巴 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "あばば 1",
             "en-US": "Abababa 1"
           }
         },
@@ -501,7 +519,7 @@
           "path": "o-72.mp3",
           "description": {
             "zh-CN": "怪叫 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "鳴き 1",
             "en-US": "Strange voice 1"
           }
         },
@@ -510,7 +528,7 @@
           "path": "o-73.mp3",
           "description": {
             "zh-CN": "吃瘪 5",
-            "ja-JP": "nan 5",
+            "ja-JP": "泣き 5",
             "en-US": "Sob 5"
           }
         },
@@ -519,7 +537,7 @@
           "path": "o-74.mp3",
           "description": {
             "zh-CN": "怪叫 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "変な声 2",
             "en-US": "Strange voice 2"
           }
         },
@@ -528,7 +546,7 @@
           "path": "o-75.mp3",
           "description": {
             "zh-CN": "阿巴巴 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "あばばー 2",
             "en-US": "Abababa 2"
           }
         },
@@ -537,7 +555,7 @@
           "path": "o-76.mp3",
           "description": {
             "zh-CN": "怪叫 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "変な声 3",
             "en-US": "Strange voice 3"
           }
         },
@@ -546,7 +564,7 @@
           "path": "o-77.mp3",
           "description": {
             "zh-CN": "怪叫 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "変な声 4",
             "en-US": "Strange voice 4"
           }
         },
@@ -555,7 +573,7 @@
           "path": "o-78.mp3",
           "description": {
             "zh-CN": "怪叫 5",
-            "ja-JP": "nan 5",
+            "ja-JP": "変な声 5",
             "en-US": "Strange voice 5"
           }
         },
@@ -564,7 +582,7 @@
           "path": "o-79.mp3",
           "description": {
             "zh-CN": "怪叫 6",
-            "ja-JP": "nan 6",
+            "ja-JP": "変な声 6",
             "en-US": "Strange voice 6"
           }
         },
@@ -573,7 +591,7 @@
           "path": "o-80.mp3",
           "description": {
             "zh-CN": "阿诶诶 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "あえええー 1",
             "en-US": "Aeeeeee 1"
           }
         },
@@ -582,8 +600,8 @@
           "path": "o-81.mp3",
           "description": {
             "zh-CN": "唔额",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "うわぇー",
+            "en-US": "ueeee"
           }
         },
         {
@@ -591,7 +609,7 @@
           "path": "o-82.mp3",
           "description": {
             "zh-CN": "怪叫 7",
-            "ja-JP": "nan 7",
+            "ja-JP": "変な声 7",
             "en-US": "Strange voice 7"
           }
         },
@@ -600,7 +618,7 @@
           "path": "o-83.mp3",
           "description": {
             "zh-CN": "怪叫 8",
-            "ja-JP": "nan 8",
+            "ja-JP": "変な声 8",
             "en-US": "Strange voice 8"
           }
         },
@@ -609,7 +627,7 @@
           "path": "o-84.mp3",
           "description": {
             "zh-CN": "怪叫 9",
-            "ja-JP": "nan 9",
+            "ja-JP": "変な声 9",
             "en-US": "Strange voice 9"
           }
         },
@@ -618,7 +636,7 @@
           "path": "o-85.mp3",
           "description": {
             "zh-CN": "怪叫 10",
-            "ja-JP": "nan 10",
+            "ja-JP": "変な声 10",
             "en-US": "Strange voice 10"
           }
         },
@@ -627,7 +645,7 @@
           "path": "o-86.mp3",
           "description": {
             "zh-CN": "怪叫 11",
-            "ja-JP": "nan 11",
+            "ja-JP": "変な声 11",
             "en-US": "Strange voice 11"
           }
         },
@@ -636,7 +654,7 @@
           "path": "o-87.mp3",
           "description": {
             "zh-CN": "八卡八卡哔——",
-            "ja-JP": "null",
+            "ja-JP": "バカバカピー",
             "en-US": "BakabakaPiiii"
           }
         },
@@ -645,7 +663,7 @@
           "path": "o-91.mp3",
           "description": {
             "zh-CN": "怪叫 12",
-            "ja-JP": "nan 12",
+            "ja-JP": "変な声 12",
             "en-US": "Strange voice 12"
           }
         },
@@ -654,7 +672,7 @@
           "path": "o-92.mp3",
           "description": {
             "zh-CN": "怪叫 13",
-            "ja-JP": "nan 13",
+            "ja-JP": "変な声 13",
             "en-US": "Strange voice 13"
           }
         },
@@ -663,8 +681,17 @@
           "path": "o-93.mp3",
           "description": {
             "zh-CN": "怪叫 14",
-            "ja-JP": "nan 14",
+            "ja-JP": "変な声 14",
             "en-US": "Strange voice 14"
+          }
+        },
+        {
+          "name": "o-94",
+          "path": "o-94.mp3",
+          "description": {
+            "zh-CN": "啊嘿",
+            "ja-JP": "あへー",
+            "en-US": "ahe"
           }
         },
         {
@@ -672,7 +699,7 @@
           "path": "o-95.mp3",
           "description": {
             "zh-CN": "怪叫 15",
-            "ja-JP": "nan 15",
+            "ja-JP": "変な声 15",
             "en-US": "Strange voice 15"
           }
         },
@@ -681,7 +708,7 @@
           "path": "o-96.mp3",
           "description": {
             "zh-CN": "怪叫 16",
-            "ja-JP": "nan 16",
+            "ja-JP": "変な声 16",
             "en-US": "Strange voice 16"
           }
         },
@@ -690,7 +717,7 @@
           "path": "o-97.mp3",
           "description": {
             "zh-CN": "怪叫 17",
-            "ja-JP": "nan 17",
+            "ja-JP": "変な声 17",
             "en-US": "Strange voice 17"
           }
         },
@@ -699,7 +726,7 @@
           "path": "o-98.mp3",
           "description": {
             "zh-CN": "尖叫 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "叫び声 1",
             "en-US": "Scream 1"
           }
         },
@@ -708,7 +735,7 @@
           "path": "o-99.mp3",
           "description": {
             "zh-CN": "怪叫 18",
-            "ja-JP": "nan 18",
+            "ja-JP": "変な声 18",
             "en-US": "Strange voice 18"
           }
         },
@@ -717,7 +744,7 @@
           "path": "o-100.mp3",
           "description": {
             "zh-CN": "尖叫 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "叫び声 2",
             "en-US": "Scream 2"
           }
         },
@@ -726,7 +753,7 @@
           "path": "o-101.mp3",
           "description": {
             "zh-CN": "尖叫 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "叫び声 3",
             "en-US": "Scream 3"
           }
         },
@@ -735,7 +762,7 @@
           "path": "o-102.mp3",
           "description": {
             "zh-CN": "尖叫 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "叫び声 4",
             "en-US": "Scream 4"
           }
         },
@@ -744,7 +771,7 @@
           "path": "o-103.mp3",
           "description": {
             "zh-CN": "怪叫 19",
-            "ja-JP": "nan 19",
+            "ja-JP": "変な声 19",
             "en-US": "Strange voice 19"
           }
         },
@@ -753,7 +780,7 @@
           "path": "o-104.mp3",
           "description": {
             "zh-CN": "怪叫 20",
-            "ja-JP": "nan 20",
+            "ja-JP": "変な声 20",
             "en-US": "Strange voice 20"
           }
         },
@@ -762,7 +789,7 @@
           "path": "o-105.mp3",
           "description": {
             "zh-CN": "怪叫 21",
-            "ja-JP": "nan 21",
+            "ja-JP": "変な声 21",
             "en-US": "Strange voice 21"
           }
         },
@@ -771,7 +798,7 @@
           "path": "o-106.mp3",
           "description": {
             "zh-CN": "怪叫 22",
-            "ja-JP": "nan 22",
+            "ja-JP": "変な声 22",
             "en-US": "Strange voice 22"
           }
         },
@@ -780,8 +807,17 @@
           "path": "o-107.mp3",
           "description": {
             "zh-CN": "怪叫 23",
-            "ja-JP": "nan 23",
+            "ja-JP": "変な声 23",
             "en-US": "Strange voice 23"
+          }
+        },
+        {
+          "name": "o-108",
+          "path": "o-108.mp3",
+          "description": {
+            "zh-CN": "噶——",
+            "ja-JP": "がー",
+            "en-US": "Ga——"
           }
         },
         {
@@ -789,8 +825,26 @@
           "path": "o-109.mp3",
           "description": {
             "zh-CN": "怪叫 24",
-            "ja-JP": "nan 24",
+            "ja-JP": "変な声 24",
             "en-US": "Strange voice 24"
+          }
+        },
+        {
+          "name": "o-110",
+          "path": "o-110.mp3",
+          "description": {
+            "zh-CN": "呜哇",
+            "ja-JP": "うわー",
+            "en-US": "OMG"
+          }
+        },
+        {
+          "name": "o-111",
+          "path": "o-111.mp3",
+          "description": {
+            "zh-CN": "哈噫 1",
+            "ja-JP": "はぃ 1",
+            "en-US": "aaaai 1"
           }
         },
         {
@@ -798,8 +852,26 @@
           "path": "o-112.mp3",
           "description": {
             "zh-CN": "怪叫 25",
-            "ja-JP": "nan 25",
+            "ja-JP": "変な声 25",
             "en-US": "Strange voice 25"
+          }
+        },
+        {
+          "name": "o-113",
+          "path": "o-113.mp3",
+          "description": {
+            "zh-CN": "啊——糟糕了",
+            "ja-JP": "あっやばい",
+            "en-US": "How terrible"
+          }
+        },
+        {
+          "name": "o-114",
+          "path": "o-114.mp3",
+          "description": {
+            "zh-CN": "阿诶诶 2",
+            "ja-JP": "あえええー 2",
+            "en-US": "Aeeeeee 2"
           }
         },
         {
@@ -807,8 +879,17 @@
           "path": "o-115.mp3",
           "description": {
             "zh-CN": "低吼 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "おおお！ 1",
             "en-US": "Growl 1"
+          }
+        },
+        {
+          "name": "o-116",
+          "path": "o-116.mp3",
+          "description": {
+            "zh-CN": "哈噫 2",
+            "ja-JP": "はぃ 2",
+            "en-US": "hai 2"
           }
         },
         {
@@ -816,7 +897,7 @@
           "path": "o-117.mp3",
           "description": {
             "zh-CN": "怪叫 26",
-            "ja-JP": "nan 26",
+            "ja-JP": "変な声 26",
             "en-US": "Strange voice 26"
           }
         },
@@ -825,7 +906,7 @@
           "path": "o-118.mp3",
           "description": {
             "zh-CN": "怪叫 27",
-            "ja-JP": "nan 27",
+            "ja-JP": "変な声 27",
             "en-US": "Strange voice 27"
           }
         },
@@ -834,7 +915,7 @@
           "path": "o-119.mp3",
           "description": {
             "zh-CN": "怪叫 28",
-            "ja-JP": "nan 28",
+            "ja-JP": "変な声 28",
             "en-US": "Strange voice 28"
           }
         },
@@ -843,7 +924,7 @@
           "path": "o-120.mp3",
           "description": {
             "zh-CN": "弹舌 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "舌芸 1",
             "en-US": "Trill 1"
           }
         },
@@ -852,7 +933,7 @@
           "path": "o-121.mp3",
           "description": {
             "zh-CN": "尖叫 5",
-            "ja-JP": "nan 5",
+            "ja-JP": "叫び声 5",
             "en-US": "Scream 5"
           }
         },
@@ -861,7 +942,7 @@
           "path": "o-122.mp3",
           "description": {
             "zh-CN": "弹舌 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "舌芸 2",
             "en-US": "Trill 2"
           }
         },
@@ -870,7 +951,7 @@
           "path": "o-123.mp3",
           "description": {
             "zh-CN": "吃瘪 6",
-            "ja-JP": "nan 6",
+            "ja-JP": "泣き声 6",
             "en-US": "Sob 6"
           }
         },
@@ -879,8 +960,17 @@
           "path": "o-124.mp3",
           "description": {
             "zh-CN": "怪叫 29",
-            "ja-JP": "nan 29",
+            "ja-JP": "変な声 29",
             "en-US": "Strange voice 29"
+          }
+        },
+        {
+          "name": "o-125",
+          "path": "o-125.mp3",
+          "description": {
+            "zh-CN": "bang！",
+            "ja-JP": "ばん！",
+            "en-US": "Bang!"
           }
         },
         {
@@ -888,7 +978,7 @@
           "path": "o-126.mp3",
           "description": {
             "zh-CN": "咕哝 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "呟き 1",
             "en-US": "Mumble 1"
           }
         },
@@ -897,7 +987,7 @@
           "path": "o-127.mp3",
           "description": {
             "zh-CN": "咕哝 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "呟き 2",
             "en-US": "Mumble 2"
           }
         },
@@ -906,7 +996,7 @@
           "path": "o-128.mp3",
           "description": {
             "zh-CN": "嘶哑 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "死んだ声 1",
             "en-US": "Raucous voice 1"
           }
         },
@@ -915,7 +1005,7 @@
           "path": "o-130.mp3",
           "description": {
             "zh-CN": "大叫 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "叫び声 1",
             "en-US": "Shout 1"
           }
         },
@@ -924,7 +1014,7 @@
           "path": "o-131.mp3",
           "description": {
             "zh-CN": "怪叫 30",
-            "ja-JP": "nan 30",
+            "ja-JP": "変な声 30",
             "en-US": "Strange voice 30"
           }
         },
@@ -933,7 +1023,7 @@
           "path": "o-132.mp3",
           "description": {
             "zh-CN": "怪叫 31",
-            "ja-JP": "nan 31",
+            "ja-JP": "変な声 31",
             "en-US": "Strange voice 31"
           }
         },
@@ -942,7 +1032,7 @@
           "path": "o-133.mp3",
           "description": {
             "zh-CN": "怪叫 32",
-            "ja-JP": "nan 32",
+            "ja-JP": "変な声 32",
             "en-US": "Strange voice 32"
           }
         },
@@ -951,7 +1041,7 @@
           "path": "o-134.mp3",
           "description": {
             "zh-CN": "尖叫 6",
-            "ja-JP": "nan 6",
+            "ja-JP": "叫び声 6",
             "en-US": "Scream 6"
           }
         },
@@ -960,7 +1050,7 @@
           "path": "o-135.mp3",
           "description": {
             "zh-CN": "怪叫 33",
-            "ja-JP": "nan 33",
+            "ja-JP": "変な声 33",
             "en-US": "Strange voice 33"
           }
         },
@@ -969,7 +1059,7 @@
           "path": "o-136.mp3",
           "description": {
             "zh-CN": "尖叫 7",
-            "ja-JP": "nan 7",
+            "ja-JP": "叫び声 7",
             "en-US": "Scream 7"
           }
         },
@@ -978,8 +1068,17 @@
           "path": "o-137.mp3",
           "description": {
             "zh-CN": "吃瘪 7",
-            "ja-JP": "nan 7",
+            "ja-JP": "泣き声 7",
             "en-US": "Sob 7"
+          }
+        },
+        {
+          "name": "o-138",
+          "path": "o-138.mp3",
+          "description": {
+            "zh-CN": "耶——",
+            "ja-JP": "いえええー",
+            "en-US": "Yeah~"
           }
         },
         {
@@ -987,7 +1086,7 @@
           "path": "o-139.mp3",
           "description": {
             "zh-CN": "怪叫 34",
-            "ja-JP": "nan 34",
+            "ja-JP": "変な声 34",
             "en-US": "Strange voice 34"
           }
         },
@@ -996,7 +1095,7 @@
           "path": "o-140.mp3",
           "description": {
             "zh-CN": "怪叫 35",
-            "ja-JP": "nan 35",
+            "ja-JP": "変な声 35",
             "en-US": "Strange voice 35"
           }
         },
@@ -1005,7 +1104,7 @@
           "path": "o-141.mp3",
           "description": {
             "zh-CN": "弹舌 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "舌芸 3",
             "en-US": "Trill 3"
           }
         },
@@ -1014,7 +1113,7 @@
           "path": "o-142.mp3",
           "description": {
             "zh-CN": "pang！",
-            "ja-JP": "null",
+            "ja-JP": "ぱん！",
             "en-US": "Pang!"
           }
         },
@@ -1023,7 +1122,7 @@
           "path": "o-143.mp3",
           "description": {
             "zh-CN": "弹舌 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "舌芸 4",
             "en-US": "Trill 4"
           }
         },
@@ -1032,7 +1131,7 @@
           "path": "o-144.mp3",
           "description": {
             "zh-CN": "弹舌 5",
-            "ja-JP": "nan 5",
+            "ja-JP": "舌芸 5",
             "en-US": "Trill 5"
           }
         },
@@ -1041,7 +1140,7 @@
           "path": "o-145.mp3",
           "description": {
             "zh-CN": "弹舌 6",
-            "ja-JP": "nan 6",
+            "ja-JP": "舌芸 6",
             "en-US": "Trill 6"
           }
         },
@@ -1050,7 +1149,7 @@
           "path": "o-146.mp3",
           "description": {
             "zh-CN": "弹舌 7",
-            "ja-JP": "nan 7",
+            "ja-JP": "舌芸 7",
             "en-US": "Trill 7"
           }
         },
@@ -1059,8 +1158,17 @@
           "path": "o-148.mp3",
           "description": {
             "zh-CN": "吃瘪 8",
-            "ja-JP": "nan 8",
+            "ja-JP": "泣き声 8",
             "en-US": "Sob 8"
+          }
+        },
+        {
+          "name": "o-149",
+          "path": "o-149.mp3",
+          "description": {
+            "zh-CN": "呲呲呲",
+            "ja-JP": "ズズズー",
+            "en-US": "zzz"
           }
         },
         {
@@ -1068,7 +1176,7 @@
           "path": "o-150.mp3",
           "description": {
             "zh-CN": "吃瘪 9",
-            "ja-JP": "nan 9",
+            "ja-JP": "泣き声 9",
             "en-US": "Sob 9"
           }
         },
@@ -1077,8 +1185,26 @@
           "path": "o-151.mp3",
           "description": {
             "zh-CN": "怪叫 36",
-            "ja-JP": "nan 36",
+            "ja-JP": "変な声 36",
             "en-US": "Strange voice 36"
+          }
+        },
+        {
+          "name": "o-152",
+          "path": "o-152.mp3",
+          "description": {
+            "zh-CN": "呜诶~",
+            "ja-JP": "うえ！",
+            "en-US": "wueeee"
+          }
+        },
+        {
+          "name": "o-153",
+          "path": "o-153.mp3",
+          "description": {
+            "zh-CN": "嘎？",
+            "ja-JP": "が？",
+            "en-US": "ga?"
           }
         },
         {
@@ -1086,7 +1212,7 @@
           "path": "o-154.mp3",
           "description": {
             "zh-CN": "弹舌 8",
-            "ja-JP": "nan 8",
+            "ja-JP": "舌芸 8",
             "en-US": "Trill 8"
           }
         },
@@ -1095,7 +1221,7 @@
           "path": "o-155.mp3",
           "description": {
             "zh-CN": "怪叫 37",
-            "ja-JP": "nan 37",
+            "ja-JP": "変な声 37",
             "en-US": "Strange voice 37"
           }
         },
@@ -1104,7 +1230,7 @@
           "path": "o-156.mp3",
           "description": {
             "zh-CN": "弹舌 9",
-            "ja-JP": "nan 9",
+            "ja-JP": "舌芸 9",
             "en-US": "Trill 9"
           }
         },
@@ -1113,7 +1239,7 @@
           "path": "o-157.mp3",
           "description": {
             "zh-CN": "大叫 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "叫び声 2",
             "en-US": "Shout 2"
           }
         },
@@ -1122,7 +1248,7 @@
           "path": "o-158.mp3",
           "description": {
             "zh-CN": "怪叫 38",
-            "ja-JP": "nan 38",
+            "ja-JP": "変な声 38",
             "en-US": "Strange voice 38"
           }
         },
@@ -1131,7 +1257,7 @@
           "path": "o-159.mp3",
           "description": {
             "zh-CN": "大叫 3",
-            "ja-JP": "nan 3",
+            "ja-JP": "叫び声 3",
             "en-US": "Shout 3"
           }
         },
@@ -1140,7 +1266,7 @@
           "path": "o-160.mp3",
           "description": {
             "zh-CN": "大叫 4",
-            "ja-JP": "nan 4",
+            "ja-JP": "叫び声 4",
             "en-US": "Shout 4"
           }
         },
@@ -1149,7 +1275,7 @@
           "path": "o-161.mp3",
           "description": {
             "zh-CN": "尖叫 8",
-            "ja-JP": "nan 8",
+            "ja-JP": "叫び声 8",
             "en-US": "Scream 8"
           }
         },
@@ -1158,7 +1284,7 @@
           "path": "o-162.mp3",
           "description": {
             "zh-CN": "foo",
-            "ja-JP": "null",
+            "ja-JP": "ふぅ！",
             "en-US": "Foo~"
           }
         },
@@ -1167,7 +1293,7 @@
           "path": "o-163.mp3",
           "description": {
             "zh-CN": "怪叫 39",
-            "ja-JP": "nan 39",
+            "ja-JP": "変な声 39",
             "en-US": "Strange voice 39"
           }
         },
@@ -1176,7 +1302,7 @@
           "path": "o-164.mp3",
           "description": {
             "zh-CN": "大叫 5",
-            "ja-JP": "nan 5",
+            "ja-JP": "叫び声 5",
             "en-US": "Shout 5"
           }
         },
@@ -1185,8 +1311,17 @@
           "path": "o-165.mp3",
           "description": {
             "zh-CN": "悲鸣 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "泣き声 1",
             "en-US": "Sob 1"
+          }
+        },
+        {
+          "name": "o-166",
+          "path": "o-166.mp3",
+          "description": {
+            "zh-CN": "吸气",
+            "ja-JP": "（吸い込む）",
+            "en-US": "Deep Breath"
           }
         },
         {
@@ -1194,8 +1329,17 @@
           "path": "o-167.mp3",
           "description": {
             "zh-CN": "怪叫 40",
-            "ja-JP": "nan 40",
+            "ja-JP": "変な声 40",
             "en-US": "Strange voice 40"
+          }
+        },
+        {
+          "name": "o-168",
+          "path": "o-168.mp3",
+          "description": {
+            "zh-CN": "哇",
+            "ja-JP": "わおー",
+            "en-US": "Wow"
           }
         },
         {
@@ -1203,7 +1347,7 @@
           "path": "o-169.mp3",
           "description": {
             "zh-CN": "怪叫 41",
-            "ja-JP": "nan 41",
+            "ja-JP": "変な声 41",
             "en-US": "Strange voice 41"
           }
         },
@@ -1212,7 +1356,7 @@
           "path": "o-170.mp3",
           "description": {
             "zh-CN": "尖叫 9",
-            "ja-JP": "nan 9",
+            "ja-JP": "叫び声 9",
             "en-US": "Scream 9"
           }
         },
@@ -1221,7 +1365,7 @@
           "path": "o-171.mp3",
           "description": {
             "zh-CN": "怒吼 1",
-            "ja-JP": "nan 1",
+            "ja-JP": "怒る声 1",
             "en-US": "Roar 1"
           }
         },
@@ -1230,7 +1374,7 @@
           "path": "o-172.mp3",
           "description": {
             "zh-CN": "怒吼 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "怒る声 2",
             "en-US": "Roar 2"
           }
         },
@@ -1239,8 +1383,17 @@
           "path": "o-173.mp3",
           "description": {
             "zh-CN": "悲鸣 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "泣き声 2",
             "en-US": "Sob 2"
+          }
+        },
+        {
+          "name": "o-174",
+          "path": "o-174.mp3",
+          "description": {
+            "zh-CN": "nyanyanya",
+            "ja-JP": "にゃにゃにゃ",
+            "en-US": "Nyanyanya"
           }
         },
         {
@@ -1248,7 +1401,7 @@
           "path": "o-175.mp3",
           "description": {
             "zh-CN": "怪叫 42",
-            "ja-JP": "nan 42",
+            "ja-JP": "変な声 42",
             "en-US": "Strange voice 42"
           }
         },
@@ -1257,7 +1410,7 @@
           "path": "o-176.mp3",
           "description": {
             "zh-CN": "怪叫 43",
-            "ja-JP": "nan 43",
+            "ja-JP": "変な声 43",
             "en-US": "Strange voice 43"
           }
         },
@@ -1266,7 +1419,7 @@
           "path": "o-177.mp3",
           "description": {
             "zh-CN": "大叫 6",
-            "ja-JP": "nan 6",
+            "ja-JP": "叫び声 6",
             "en-US": "Shout 6"
           }
         },
@@ -1275,7 +1428,7 @@
           "path": "o-178.mp3",
           "description": {
             "zh-CN": "大叫 7",
-            "ja-JP": "nan 7",
+            "ja-JP": "叫び声 7",
             "en-US": "Shout 7"
           }
         },
@@ -1284,7 +1437,7 @@
           "path": "o-179.mp3",
           "description": {
             "zh-CN": "嘶哑 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "死んだ声 2",
             "en-US": "Raucous voice 2"
           }
         },
@@ -1293,7 +1446,7 @@
           "path": "o-180.mp3",
           "description": {
             "zh-CN": "低吼 2",
-            "ja-JP": "nan 2",
+            "ja-JP": "うおおー 2",
             "en-US": "Growl 2"
           }
         },
@@ -1302,7 +1455,7 @@
           "path": "o-182.mp3",
           "description": {
             "zh-CN": "大叫 8",
-            "ja-JP": "nan 8",
+            "ja-JP": "叫び声 8",
             "en-US": "Shout 8"
           }
         },
@@ -1311,7 +1464,7 @@
           "path": "o-183.mp3",
           "description": {
             "zh-CN": "弹舌 10",
-            "ja-JP": "nan 10",
+            "ja-JP": "舌芸 10",
             "en-US": "Trill 10"
           }
         },
@@ -1320,7 +1473,7 @@
           "path": "o-185.mp3",
           "description": {
             "zh-CN": "怪叫 44",
-            "ja-JP": "nan 44",
+            "ja-JP": "変な声 44",
             "en-US": "Strange voice 44"
           }
         },
@@ -1329,7 +1482,7 @@
           "path": "o-186.mp3",
           "description": {
             "zh-CN": "大叫 9",
-            "ja-JP": "nan 9",
+            "ja-JP": "叫び声 9",
             "en-US": "Shout 9"
           }
         },
@@ -1338,7 +1491,7 @@
           "path": "o-187.mp3",
           "description": {
             "zh-CN": "大叫 10",
-            "ja-JP": "nan 10",
+            "ja-JP": "叫び声 10",
             "en-US": "Shout 10"
           }
         },
@@ -1347,7 +1500,7 @@
           "path": "o-188.mp3",
           "description": {
             "zh-CN": "怪叫 45",
-            "ja-JP": "nan 45",
+            "ja-JP": "変な声 45",
             "en-US": "Strange voice 45"
           }
         }
@@ -1384,7 +1537,7 @@
           "path": "o-46.mp3",
           "description": {
             "zh-CN": "有了",
-            "ja-JP": "null",
+            "ja-JP": "あった！",
             "en-US": "Got it"
           }
         }
@@ -1421,7 +1574,7 @@
           "path": "o-147.mp3",
           "description": {
             "zh-CN": "呀吼",
-            "ja-JP": "null",
+            "ja-JP": "ハロー",
             "en-US": "Hello~"
           }
         }
@@ -1436,11 +1589,20 @@
       },
       "voiceList": [
         {
+          "name": "o-47",
+          "path": "o-47.mp3",
+          "description": {
+            "zh-CN": "手毬喵",
+            "ja-JP": "てまにゃん",
+            "en-US": "Temanya"
+          }
+        },
+        {
           "name": "o-54",
           "path": "o-54.mp3",
           "description": {
             "zh-CN": "可能这就是aqua只能做我爱人的原因吧",
-            "ja-JP": "null",
+            "ja-JP": "それは多分あくあちゃんは僕の愛人しかなれない",
             "en-US": "Maybe this is why Aqua can only be my lover"
           }
         },
@@ -1449,7 +1611,7 @@
           "path": "o-55.mp3",
           "description": {
             "zh-CN": "(倒计时) 好了吗？",
-            "ja-JP": "null",
+            "ja-JP": "もういいか？",
             "en-US": "(countdown)Is it OK？"
           }
         },
@@ -1458,7 +1620,7 @@
           "path": "o-56.mp3",
           "description": {
             "zh-CN": "放~我~出~来~",
-            "ja-JP": "null",
+            "ja-JP": "離せ！",
             "en-US": "Let me out!"
           }
         },
@@ -1467,7 +1629,7 @@
           "path": "o-57.mp3",
           "description": {
             "zh-CN": "好可怜的饭团屋",
-            "ja-JP": "null",
+            "ja-JP": "可哀想なおにぎりゃ",
             "en-US": "Poor onigirya"
           }
         },
@@ -1476,8 +1638,8 @@
           "path": "o-59.mp3",
           "description": {
             "zh-CN": "诶~难道说 你还不是我的gachi恋吗",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "えーもしかして、あなたはまた私のガチ恋じゃないの？",
+            "en-US": "How could you haven't been my gachi lover?"
           }
         },
         {
@@ -1485,8 +1647,8 @@
           "path": "o-60.mp3",
           "description": {
             "zh-CN": "Alexa可能会背叛你 但我是不会背叛你的哦",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "アレクサはお前のことを裏切るかもしれないげと、でも僕は裏切れないよ。",
+            "en-US": "Alexa may trick you, but I won't."
           }
         },
         {
@@ -1494,8 +1656,8 @@
           "path": "o-61.mp3",
           "description": {
             "zh-CN": "我身上的罪也是你们的罪",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "私の罪も君たちの罪だよ",
+            "en-US": "My crime is also your guys' crime."
           }
         },
         {
@@ -1503,7 +1665,7 @@
           "path": "o-62.mp3",
           "description": {
             "zh-CN": "我会一直陪伴着大家的",
-            "ja-JP": "null",
+            "ja-JP": "私いつもみんなの傍にいるから",
             "en-US": "I will always be with you."
           }
         },
@@ -1512,8 +1674,17 @@
           "path": "o-63.mp3",
           "description": {
             "zh-CN": "你是怎么想的呢，觉得是我的错吗，昴酱",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "どう思うのか？僕のせいですか？スバルちゃん？",
+            "en-US": "What do you think of? It's my fault? Subaru chan?"
+          }
+        },
+        {
+          "name": "o-64",
+          "path": "o-64.mp3",
+          "description": {
+            "zh-CN": "手毬喵啊啊啊啊啊",
+            "ja-JP": "てまにゃんああああー",
+            "en-US": "Tema…nyAAAAAAA"
           }
         },
         {
@@ -1521,8 +1692,8 @@
           "path": "o-65.mp3",
           "description": {
             "zh-CN": "Alexa 把空调开一开",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "アレクサ、エアコンを開けて",
+            "en-US": "Alexa, open the air conditioner."
           }
         },
         {
@@ -1530,8 +1701,8 @@
           "path": "o-66.mp3",
           "description": {
             "zh-CN": "Alexa 把空调关一下",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "アレクサ、エアコンを閉じる",
+            "en-US": "Alexa, shut down the air conditioner."
           }
         },
         {
@@ -1539,8 +1710,53 @@
           "path": "o-67.mp3",
           "description": {
             "zh-CN": "真要说的话我也是miofa沁音suki和suba友",
-            "ja-JP": "null",
-            "en-US": "null"
+            "ja-JP": "言ったら、僕はミオファところねすきとすばともだよ。",
+            "en-US": "If I must say, I'm miofa, konone suki and suba friend."
+          }
+        },
+        {
+          "name": "o-90",
+          "path": "o-90.mp3",
+          "description": {
+            "zh-CN": "啊到了",
+            "ja-JP": "あっできった！",
+            "en-US": "Oh, I make it"
+          }
+        },
+        {
+          "name": "o-129",
+          "path": "o-129.mp3",
+          "description": {
+            "zh-CN": "这该如何是好",
+            "ja-JP": "どうすればいいの？",
+            "en-US": "What should I do?"
+          }
+        },
+        {
+          "name": "o-181",
+          "path": "o-181.mp3",
+          "description": {
+            "zh-CN": "如此这般",
+            "ja-JP": "そんなの",
+            "en-US": "Something like this"
+          }
+        },
+        {
+          "name": "o-184",
+          "path": "o-184.mp3",
+          "description": {
+            "zh-CN": "哈皮哈皮哈皮",
+            "ja-JP": "ハッピーハッピーハッピー",
+            "en-US": "Happyhappyhappy"
+          }
+        },
+        {
+          "name": "o-189",
+          "path": "o-189.mp3",
+          "description": {
+            "zh-CN": "笨蛋！",
+            "ja-JP": "バーカー",
+            "en-US": "Stupid guy!"
           }
         }
       ]
